@@ -1,56 +1,56 @@
 {
     "GAMEPLAY_OakFireWoodPile5": {
         "English": "Oak Firewood Pile 5",
-        "Russian": "",
+        "Russian": "Связка из 5 дубовых поленьев",
         "Turkish": "5 Adet Meşe Odunu",
 		"Italian": "",
 		"German": "Brennholzstapel aus Eiche"
     },
     "GAMEPLAY_OakFireWoodPile5Description": {
         "English": "Bunch of oak firewood in a pile.",
-        "Russian": "",
+        "Russian": "Несколько дубовых поленьев, сложенных вместе.",
         "Turkish": "Bir yığın meşe odunu.",
 		"Italian": "",
 		"German": "Ein Bündel Eichenbrennholz auf einem Stapel."
     },
     "GAMEPLAY_OakFireWood": {
         "English": "Oak FireWood",
-        "Russian": "",
+        "Russian": "Дубовое полено",
         "Turkish": "Yakmalık Meşe Odunu",
 		"Italian": "",
 		"German" : "Brennholz aus Eiche"
     },
     "GAMEPLAY_OakFireWoodDescription": {
         "English": "Piece of oak firewood. Usually can be found near oak trees. burns for long time.",
-        "Russian": "",
+        "Russian": "Кусок древесины дуба. Обычно можно найти в дубовых рощах. Будет гореть долго.",
         "Turkish": "Meşe odunu parçası. Genellikle meşe ağaçlarının yakınında bulunur. Uzun süre yanar.",
 		"Italian": "",
 		"German":  "Stück Eichenbrennholz. Normalerweise in der Nähe von Eichen zu finden. Brennt lange."
     },
     "GAMEPLAY_BirchWoodPile5": {
         "English": "Birch Firewood Pile 5",
-        "Russian": "",
+        "Russian": "Связка из 5 березовых поленьев",
         "Turkish": "5 Adet Huş Odunları",
 		"Italian": "",
 		"German": "Brennholzstapel aus Birke"
     },
     "GAMEPLAY_BirchWoodPile5Description": {
         "English": "Bunch of birch firewood in a pile.",
-        "Russian": "",
+        "Russian": "Несколько березовых поленьев, сложенных вместе.",
         "Turkish": "Bir yığın huş ağacı odunu.",
 		"Italian": "",
 		"German":  "Ein Bündel Birkenbrennholz auf einem Stapel."
     },
     "GAMEPLAY_BirchWood": {
         "English": "Birch Firewood",
-        "Russian": "",
+        "Russian": "Березовое полено",
         "Turkish": "Yakmalık Huş odunu",
 		"Italian": "",
 		"German":  "Brennholz aus Birke"
     },
     "GAMEPLAY_BirchWoodDescription": {
         "English": "Piece of birch wood, can be found in birch forests and near birch trees.",
-        "Russian": "",
+        "Russian": "Кусок березовой древесины. Можно найти в березовых рощах и возле отдельных берез.",
         "Turkish": "Huş ağacı parçası, huş ağacı ormanlarında ve huş ağaçlarının yakınında bulunabilir.",
 		"Italian": "",
 		"German":  "Stück Birkenholz, kann in Birkenwäldern und in der Nähe von Birken gefunden werden."
