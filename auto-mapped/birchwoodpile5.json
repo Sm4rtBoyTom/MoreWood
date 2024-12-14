@@ -1,0 +1,63 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_BirchWoodPile5",
+    "DescriptionLocalizatonId": "GAMEPLAY_BirchWoodPile5Description",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 2.5,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvWoodFirewood",
+    "PutBackAudio": "Play_SndInvWoodFirewood",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModBurnableBehaviour": {
+    "BurningMinutes": 250,
+    "BurningMinutesBeforeAllowedToAdd": 0.0,
+    "SuccessModifier": 20.0,
+    "TempIncrease": 18.0,
+    "DurationOffset": 0.0
+  },
+  "ModHarvestableBehaviour": {
+    "Audio": "Play_HarvestingWoodCedar",
+    "Minutes": 2,
+    "YieldCounts": [
+      5
+    ],
+    "YieldNames": [
+      "GEAR_BirchWood"
+    ],
+    "RequiredToolNames": []
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_BirchWoodPile5",
+    "MultipleUnitTextId": "GAMEPLAY_BirchWoodPile5",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_BirchWoodPile5",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}

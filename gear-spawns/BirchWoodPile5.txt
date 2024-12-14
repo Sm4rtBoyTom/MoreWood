@@ -1,0 +1,12 @@
+scene=AirfieldRegion
+item=GEAR_BirchWoodPile5 p=-738.0479,294.8149,1133.2323 r=0.0000,231.1943,0.0000 c=100
+
+scene=MountainPassRegion
+item=GEAR_BirchWoodPile5 p=260.7856,374.1105,-53.8983 r=-0.0000,27.6443,-0.0000 c=100
+
+scene=MarshRegion
+item=GEAR_BirchWoodPile5 p=191.4450,-58.6174,1538.5996 r=7.9082,206.6073,352.0710 c=100
+
+scene=AshCanyonRegion
+item=GEAR_BirchWoodPile5 p=-772.0230,237.8169,-101.4692 r=9.6816,265.6714,350.7841 c=100
+

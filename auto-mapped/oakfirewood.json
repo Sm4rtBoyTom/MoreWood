@@ -1,0 +1,52 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_OakFireWood",
+    "DescriptionLocalizatonId": "GAMEPLAY_OakFireWoodDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.75,
+    "DaysToDecay": 0,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Firestarting",
+    "PickUpAudio": "Play_SndInvWoodFirewood",
+    "PutBackAudio": "Play_SndInvWoodFirewood",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 1.0,
+    "InspectAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+  "ModBurnableBehaviour": {
+    "BurningMinutes": 80,
+    "BurningMinutesBeforeAllowedToAdd": 0.0,
+    "SuccessModifier": 10.0,
+    "TempIncrease": 8.0,
+    "DurationOffset": 0.0
+  },
+  "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_OakFireWood",
+    "MultipleUnitTextId": "GAMEPLAY_OakFireWood",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 0.0,
+    "ShareStackWithGear": [],
+    "InstantiateStackItem": "GEAR_OakFireWood",
+    "StackConditionDifferenceConstraint": 0.0
+  }
+}
