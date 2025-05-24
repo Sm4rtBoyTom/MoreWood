@@ -1,0 +1,23 @@
+{
+  "Name": "Oak Firewood Pile",
+  "RequiredGear": [
+    {
+      "Item": "GEAR_OakFireWood",
+      "Count": 5,
+      "Units": "Count"
+    }
+  ],
+  "RequiredPowder": [],
+  "RequiredLiquid": [],
+  "RequiredTool": "",
+  "OptionalTools": [],
+  "RequiredCraftingLocation": "Anywhere",
+  "RequiresLitFire": false,
+  "RequiresLight": false,
+  "CraftedResult": "GEAR_oakfirewoodpile5",
+  "CraftedResultCount": 1,
+  "DurationMinutes": 1,
+  "CraftingAudio": "Play_CraftingWood",
+  "AppliedSkill": "None",
+  "ImprovedSkill": "None"
+}

@@ -1,0 +1,8 @@
+loottable=LootTableToolChest
+item=BirchWood w=1
+loottable=LootTableCoalBin
+item=BirchWood w=3
+loottable=LootTableForestryCrate
+item=BirchWood w=3
+loottable=LootTableFirewoodBin
+item=BirchWood w=3
