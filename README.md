@@ -18,5 +18,5 @@ instead of actually playing the game. If anyone would be interested to add this 
 
 - **Install** [[Modcomponent](https://github.com/dommrogers/ModComponent/releases/tag/6.3.1)] **and it's dependencies.**
 
-- **Drop the** **.modcomponent** **file into your mods folder**.
+- **Drop the** **.modcomponent and .dll** **files into your mods folder**.
 - **Enjoy**!
