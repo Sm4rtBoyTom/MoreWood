@@ -13,7 +13,7 @@
         "Turkish": "Bir yığın meşe odunu.",
 		"Italian": "Un mucchio di legna da ardere di quercia.",
 		"German": "Ein Bündel Eichenbrennholz auf einem Stapel.",
-	    	"Japanese": "束ねられたオークの薪"
+	    	"Japanese": "一まとめにされたオークの薪束。"
     },
     "GAMEPLAY_OakFireWood": {
         "English": "Oak FireWood",
@@ -29,7 +29,7 @@
         "Turkish": "Meşe odunu parçası. Genellikle meşe ağaçlarının yakınında bulunur. Uzun süre yanar.",
 		"Italian": "Un pezzo di legno da ardere di quercia. Di solito può essere trovato vicino alle quercie. Brucia a lungo.",
 		"German":  "Stück Eichenbrennholz. Normalerweise in der Nähe von Eichen zu finden. Brennt lange.",
-	    	"Japanese": "オークの木片、たいていはオークの木の近くで見つけられる。長時間燃える。"
+	    	"Japanese": "オークの薪、たいていはオークの木の近くで見つけられる。長時間燃える。"
     },
     "GAMEPLAY_BirchWoodPile5": {
         "English": "Birch Firewood Pile 5",
@@ -45,7 +45,7 @@
         "Turkish": "Bir yığın huş ağacı odunu.",
 		"Italian": "Un mucchio di legna da ardere di betulla.",
 		"German":  "Ein Bündel Birkenbrennholz auf einem Stapel.",
-	    	"Japanese": "束ねられたシラカバの薪。"
+	    	"Japanese": "一まとめにされたシラカバの薪束。"
     },
     "GAMEPLAY_BirchWood": {
         "English": "Birch Firewood",
@@ -61,7 +61,8 @@
         "Turkish": "Huş ağacı parçası, huş ağacı ormanlarında ve huş ağaçlarının yakınında bulunabilir.",
 		"Italian": "Un pezzo di legno di betulla, può essere trovato nelle foreste di betulle e vicino alle betulle.",
 		"German":  "Stück Birkenholz, kann in Birkenwäldern und in der Nähe von Birken gefunden werden.",
-	    	"Japanese": "シラカバの木片、シラカバの森やシラカバの木の近くで見つけることができる。"
+	    	"Japanese": "シラカバの薪、シラカバの森やシラカバの木の近くで見つけることができる。"
     },
 }
+
 
