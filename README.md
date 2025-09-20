@@ -5,7 +5,7 @@
 
 Do you like even more useless items? then this mod is just for you!
 Birch Wood can be found in birch forests and oak can be found near oak trees.
-Both wood types have a Pile version made by combining 5 pieces of respected firewood.
+Both wood types have a Pile version made by combining 5 pieces firewood.
 Birch is more similiar to cedar and oak to fir.
 
 
