@@ -1,0 +1,24 @@
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\MoreWood.csproj.AssemblyReference.cache
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\MoreWood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\MoreWood.csproj.CoreCompileInputs.cache
+C:\Users\smart\Desktop\MoreWood\bin\Debug\net6.0\MoreWood.deps.json
+C:\Users\smart\Desktop\MoreWood\bin\Debug\net6.0\MoreWood.dll
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\MoreWood.dll
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\refint\MoreWood.dll
+C:\Users\smart\Desktop\MoreWood\obj\Debug\net6.0\ref\MoreWood.dll
+D:\Modding\MoreWood\bin\Debug\net6.0\MoreWood.deps.json
+D:\Modding\MoreWood\bin\Debug\net6.0\MoreWood.dll
+D:\Modding\MoreWood\obj\Debug\net6.0\MoreWood.csproj.AssemblyReference.cache
+D:\Modding\MoreWood\obj\Debug\net6.0\MoreWood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\MoreWood\obj\Debug\net6.0\MoreWood.csproj.CoreCompileInputs.cache
+D:\Modding\MoreWood\obj\Debug\net6.0\MoreWood.dll
+D:\Modding\MoreWood\obj\Debug\net6.0\refint\MoreWood.dll
+D:\Modding\MoreWood\obj\Debug\net6.0\ref\MoreWood.dll
+D:\Modding\My MODS\MoreWood\bin\Debug\net6.0\MoreWood.deps.json
+D:\Modding\My MODS\MoreWood\bin\Debug\net6.0\MoreWood.dll
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\MoreWood.csproj.AssemblyReference.cache
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\MoreWood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\MoreWood.csproj.CoreCompileInputs.cache
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\MoreWood.dll
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\refint\MoreWood.dll
+D:\Modding\My MODS\MoreWood\obj\Debug\net6.0\ref\MoreWood.dll
