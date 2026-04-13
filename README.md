@@ -13,7 +13,7 @@ Birch is more similiar to cedar and oak to fir.
 
 ### Installation
 
-- **Install** [[Modcomponent](https://github.com/dommrogers/ModComponent/releases/tag/6.3.1)] **and it's dependencies.**
+- **Install** [Modcomponent](https://github.com/dommrogers/ModComponent/releases/tag/6.3.1) **and it's dependencies.**
 
 - **Drop the** **.modcomponent and .dll** **files into your mods folder**.
 - **Enjoy**!
